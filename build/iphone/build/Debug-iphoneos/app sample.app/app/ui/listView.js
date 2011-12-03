@@ -1,0 +1,1 @@
+/Users/aki-nomura/Documents/Titanium Studio Workspace/app sample/Resources/app/ui/listView.js
